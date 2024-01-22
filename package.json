@@ -1,15 +1,14 @@
 {
-  "name": "proje-adi",
+  "name": "vedubox-custom-editor",
   "version": "1.0.0",
-  "description": "Proje Açiklamasi",
+  "description": "Vedubox Custom CKEditor5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "npm",
-    "proje"
+    "npm"
   ],
-  "author": "Adiniz Soyadiniz",
+  "author": "Serkan Baykal",
   "license": "ISC"
 }
